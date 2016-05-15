@@ -1,0 +1,2 @@
+# silabs
+EZR32WG
